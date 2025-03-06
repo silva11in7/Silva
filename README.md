@@ -8,7 +8,7 @@
 
 ## 🖥️ System OS  
 <p align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux.png">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
