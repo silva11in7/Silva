@@ -49,13 +49,6 @@
 
 ## 🔗 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/seuusuario">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/seuusuario">
+  <a href="https://www.instagram.com/silva.11in7/?next=%2F">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://github.com/seuusuario">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+  </a> </p>
