@@ -38,7 +38,6 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silva11in7&show_icons=true&theme=radical)
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=silva11in7&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=silva11in7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
