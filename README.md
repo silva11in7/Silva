@@ -10,4 +10,4 @@ I'm a passionate security enthusiast and aspiring software developer, with a str
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## 📫 Contact Me  
-[![Instagram](https://img.shields.io/badge/-https://www.instagram.com/silva.11in7/?next=%2F)  
+![Instagram](https://img.shields.io/badge/-https://www.instagram.com/silva.11in7/?next=%2F)  
