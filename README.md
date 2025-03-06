@@ -45,9 +45,8 @@
 ---
 
 ## 🎵 Currently Listening on Spotify  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pc6g4yde0qd3ex2r4ijp45q1q&cover_image=true&theme=default&show_offline=false&background_color=121212" width="50%">
-</p>
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=pc6g4yde0qd3ex2r4ijp45q1q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/pc6g4yde0qd3ex2r4ijp45q1q)
+
 
 ---
 
