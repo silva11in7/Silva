@@ -6,31 +6,39 @@
 
 ---
 
-## 🚀 Sobre Mim  
-🔹 Apaixonado por segurança ofensiva e desenvolvimento de software.  
-🔹 Comecei minha jornada aos 15 anos estudando JavaScript, PHP e MySQL.  
-🔹 Atualmente, aprofundando conhecimentos em C e Python para aprimorar minha expertise técnica.  
-🔹 Estudando o framework **MITRE ATT&CK** e grupos APT para entender ameaças avançadas.  
-🔹 Praticante de **Red Team**, focado em simulação de ataques e defesa cibernética.  
-
----
-
-## 🛠️ Tecnologias & Ferramentas  
+## 🖥️ System OS  
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 🚀 About Me  
+🔹 Passionate about offensive security and software development.  
+🔹 Started my journey at 15, learning **JavaScript, PHP, and MySQL**.  
+🔹 Currently exploring **C and Python** to deepen my technical expertise.  
+🔹 Studying the **MITRE ATT&CK** framework and APT groups to understand advanced cyber threats.  
+🔹 Red Team practitioner, focused on **simulating real-world attacks** and strengthening cybersecurity defenses.  
+
+---
+
+## 🛠️ Technologies & Tools  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical&count_private=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" width="48%">
@@ -38,14 +46,14 @@
 
 ---
 
-## 🎵 Ouvindo no Spotify  
+## 🎵 Currently Listening on Spotify  
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=seu_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212" width="50%">
 </p>
 
 ---
 
-## 🔗 Redes Sociais  
+## 🔗 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/seuusuario">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
