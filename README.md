@@ -9,7 +9,7 @@
 ## 🖥️ System OS  
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2021.svg" title="Windows" alt="Windows" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" title="Windows" alt="Windows" width="80"/>
 </p>
 
 ---
