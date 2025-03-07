@@ -1,4 +1,4 @@
-<h1 align="center">Silva</h1>
+# <h1 align="center">Silva</h1>
 
 <p align="center">
   <strong>Security Enthusiast | Aspiring Software Developer</strong>  
@@ -19,6 +19,7 @@
 🔹 Started my journey at 15, learning **JavaScript, PHP, and MySQL**.  
 🔹 Currently exploring **C and Python** to deepen my technical expertise.  
 🔹 Studying the **MITRE ATT&CK** framework and APT groups to understand advanced cyber threats.  
+
 ---
 
 ## 🛠️ Technologies & Tools  
@@ -51,4 +52,5 @@
 <p align="center">
   <a href="https://www.instagram.com/silva.11in7/?next=%2F">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> </p>
+  </a>
+</p>
